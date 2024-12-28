@@ -1,226 +1,223 @@
-export const headTeam = [
+export const managementTeam = [
   {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
+    photo: "/images/adityaBhawsar.jpeg",
     name: "Aditya Bhawsar",
     designation: "President",
-    linkedin: "https://www.linkedin.com/in/adityabhawsar/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description: "Principal Financial Group",
+    linkedin: "https:s//www.linkedin.com/in/adityabhawsar/",
+    email: "",
+    instagram: "",
+    description: "",
   },
   {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
+    photo: "/images/yashRaghuwani.jpeg",
+    name: "Yash Raghuwani",
+    designation: "Senior Coordinator",
+    linkedin: "https://www.linkedin.com/in/yash-rughwani-2291ba233/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/pranavSharma.jpeg",
+    name: "Pranav Sharma",
+    designation: "Coordinator",
+    linkedin: "https://www.linkedin.com/in/pranavsharma26/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/visheshVaidya.jpeg",
+    name: "Vishesh Vaidya",
+    designation: "Coordinator",
+    linkedin: "https://www.linkedin.com/in/vishesh-vaidya-105653312/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+];
+
+export const cpTeam = [
+  {
+    photo: "images/kishanTapadia.jpeg",
     name: "Kishan Tapadia",
-    designation: "Head of CP",
+    designation: "CP Head",
     linkedin: "https://www.linkedin.com/in/kishan-tapadia-b41a19229/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description: "Deustche Bank",
+    email: "",
+    instagram: "",
+    description: "",
   },
   {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
+    photo: "/images/shubhanshuSharma.jpeg",
+    name: "Shubhanshu Sharma",
+    designation: "CP Head",
+    linkedin: "https://www.linkedin.com/in/shubhanshu-s-284842238/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/prateekChourasiya.jpeg",
+    name: "Pateek Chourasiya",
+    designation: "CP Coordinator",
+    linkedin: "https://www.linkedin.com/in/prateek-chourasiya-060058254/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/kanishkaGupta.jpeg",
+    name: "Kanishka Gupta",
+    designation: "CP Coordinator",
+    linkedin: "https://www.linkedin.com/in/kanishka-gupta-b87667253/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/akshayJoshi.jpeg",
+    name: "Akshay Joshi",
+    designation: "CP Coordinator",
+    linkedin: "https://www.linkedin.com/in/akshay-joshi-09970427a/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/demo.jpeg",
+    name: "Vaibhav Singh",
+    designation: "CP Coordinator",
+    linkedin: "https://www.linkedin.com/in/vaibhav-singh-b97231185/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+];
+
+export const webTeam = [
+  {
+    photo: "/images/visheshShrivastava.jpeg",
     name: "Vishesh Shrivastava",
-    designation: "Head of CP",
+    designation: "Web Developement Head",
     linkedin: "https://www.linkedin.com/in/vishesh-shrivastava-121214233/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description: "Goldman Sachs",
+    email: "",
+    instagram: "",
+    description: "",
   },
   {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
+    photo: "/images/kaushalPatel.jpeg",
+    name: "Kaushal Patel",
+    designation: "Web Developement Head",
+    linkedin: "https://www.linkedin.com/in/kaushal-patel-3022a2226/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/sumitKhandegar.jpeg",
+    name: "Sumit Khandegar",
+    designation: "Frotend Developer",
+    linkedin: "https://www.linkedin.com/in/sumit-khandegar-563a1a249/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/dipeshPrajapat.jpeg",
+    name: "Dipesh Prajapat",
+    designation: "Backend Developer",
+    linkedin: "https://www.linkedin.com/in/dipesh-prajapat120309317719/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/demo.jpeg",
+    name: "Gaurav Ray",
+    designation: "Frontend Developer",
+    linkedin: "https://www.linkedin.com/in/gaurav-ray-308aa4274/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/bishalDas.jpeg",
+    name: "Bishal Das",
+    designation: "Web Designer",
+    linkedin: "https://www.linkedin.com/in/bishal-das-bd/",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+];
+
+export const mlTeam = [
+  {
+    photo: "/images/mohakMalviya.jpeg",
     name: "Mohak Malviya",
-    designation: "Head of Machine Learning",
+    designation: "Machine Learning Head",
     linkedin: "https://www.linkedin.com/in/mohak-malviya-a6b89b225/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
+    email: "",
+    instagram: "",
+    description: "",
+  },
+  {
+    photo: "/images/nityaPahwa.jpeg",
+    name: "Nitya Pahwa",
+    designation: "Machine Learning Coordinator",
+    linkedin: "https://www.linkedin.com/in/nitya-pahwa-65940a290/",
+    email: "",
+    instagram: "",
     description: "",
   },
 ];
 
 export const graphicTeam = [
   {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-];
-
-export const cpTeam = [
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-];
-
-export const webTeam = [
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "Sumit Khandegar",
-    designation: "Web Developer",
-    linkedin: "https://www.linkedin.com/in/sumit-khandegar-563a1a249/",
-    email: "sumitkhandegar2@gmail.com",
-    instagram: "https://www.instagram.com/johndoe",
+    photo: "/images/rashmiMohan.jpeg",
+    name: "Rashmi",
+    designation: "Graphic Head",
+    linkedin: "https://www.linkedin.com/in/rashmi-mohan-408511231/",
+    email: "j",
+    instagram: "",
     description: "",
   },
   {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "Dipesh Prajapat",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/dipesh-prajapat120309317719/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
+    photo: "images/manasGupta.jpeg",
+    name: "Manas Gupta",
+    designation: "Content Head",
+    linkedin: "https://www.linkedin.com/in/manas-gupta01/",
+    email: "",
+    instagram: "",
     description: "",
   },
   {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "Bishal Das",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/bishal-das-bd/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description: "Google Summer of Code'24 @OWASP",
+    photo: "/images/kritiMandliya.jpeg",
+    name: "Kriti Mandliya",
+    designation: "Content Coordinator",
+    linkedin: "https://www.linkedin.com/in/kriti-mandliya-544a11269/",
+    email: "",
+    instagram: "",
+    description: "",
   },
   {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "Gaurav Ray",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
+    photo: "/images/atishayJain.jpeg",
+    name: "Atishay Jain",
+    designation: "Graphic Coordinator",
+    linkedin: "https://www.linkedin.com/in/atishyy27/",
+    email: "",
+    instagram: "",
     description: "",
   },
 ];
 
 export const alumni = [
   {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
+    photo: "/images/demo.jpeg",
+    name: "Alumi",
     linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
-  },
-  {
-    photo:
-      "https://tse3.mm.bing.net/th?id=OIP.Djgm4yzQqJCm95r_nqeziAHaHa&pid=Api&P=0&h=220",
-    name: "John Doe",
-    designation: "Head of Department",
-    linkedin: "https://www.linkedin.com/in/johndoe/",
-    email: "john@example.com",
-    instagram: "https://www.instagram.com/johndoe",
-    description:
-      "A visionary leader with over 10 years of experience in managing interdisciplinary teams. Passionate about innovation, team-building, and driving success in technology-driven environments.",
+    email: "",
+    instagram: "",
+    description: "",
   },
 ];
