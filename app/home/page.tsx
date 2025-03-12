@@ -1,5 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
+import Events from "../components/Events";
 import UserForm from "../components/UserForm";
 
 const Page = () => {
@@ -137,6 +138,9 @@ const Page = () => {
             </div>
           </div>
         </section>
+
+   <section><Events/></section>
+        
 
         {/* Footer */}
         <footer className="bg-gray-800 dark:bg-gray-900 text-white py-8 px-4">
